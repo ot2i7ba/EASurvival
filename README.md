@@ -45,7 +45,7 @@ We are proud to present to you our revolutionary game – a true masterpiece in 
 
 - **Enjoy the Journey**: Remember, it's the journey that counts. Every bug is a small test of your skills and patience. Overcome them with a smile and be proud to be part of this unique adventure.
 
-We thank you for your support and unwavering enthusiasm. Together, we will elevate "Early Access Scam MMO v0.1x (4sshooter)" to a masterpiece of modern game art – bugs included!
+We thank you for your support and unwavering enthusiasm. Together, we will elevate "Early Access Scam MMO v0.1.0 (4sshooter)" to a masterpiece of modern game art – bugs included!
 
 Please note that any translation errors and spelling mistakes are intentionally included to enhance the overall authenticity of the Early Access experience. We believe they add a unique charm and immersive complexity to the game. Enjoy
 
