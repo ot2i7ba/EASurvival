@@ -89,3 +89,9 @@ For those who prefer not to go through the joy of compiling this magnificent gam
 
 ## Final Note
 Putting jokes aside, I have a deep love for computer and video games, having been a passionate gamer for over 40 years. This playful project is my sarcastic response to the state of some Early Access titles. It is dedicated to a friend I have known for over 20 years, whom I met while playing Battlefield 1942 and RTCW online. I value and appreciate him both as a fellow gamer and as a person (greetings to Mike). I don't need eye candy or the latest graphics; what I truly value is a solid game concept. Early Access can be a beneficial and effective approach. However, as an example, when a developer starts a Kickstarter campaign a decade ago, successfully raises funds, and sells Alpha and Beta access for up to €750 or more without delivering a game that offers more than the "Early Access Survival Scam MMO," it's understandable why some players feel frustrated. We can only hope for a change in direction. "Good things take time," and I agree with this saying. Yet, as customers and investors in an idea, we have the right to expect a certain level of progress. But really, don't take this rant too seriously. :)
+
+## License
+This project is licensed under the **[MIT license](https://github.com/ot2i7ba/EASurvival/blob/main/LICENSE)**, providing users with flexibility and freedom to use and modify the software according to their needs.
+
+## Disclaimer
+This project is provided without warranties. Users are advised to review the accompanying license for more information on the terms of use and limitations of liability.
